@@ -1,0 +1,1 @@
+<img src="{{asset('R (2).png')}}" class="w-12 h-12 rounded-full object-contain" alt="">
